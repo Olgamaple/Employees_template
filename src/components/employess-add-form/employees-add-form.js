@@ -35,7 +35,6 @@ class EmployeesAddForm extends Component {
                   value={salary}
                   onChange={this.onValueCahge}/>
                <button className="btn btn-outline-light">Add</button>
-  
          </form>
       </div>
     )
